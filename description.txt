@@ -1,0 +1,2 @@
+Empty Project
+Sets up and initializes an empty project for the RSK
